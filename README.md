@@ -8,7 +8,7 @@ Image analysis strategy has been developed to analyze Marine Icing images for th
 ### Image processing  
 <img src="Images/structuresource.png" width="100%" height="100%">
 
-### Measurement of a Vertical Structure  
+### Measurement of Vertical Structure  
 <img src="Images/mimsresult.png" width="100%" height="100%">
 
 ## Image Analysis for Impact Module
