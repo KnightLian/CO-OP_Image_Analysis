@@ -4,22 +4,23 @@ Image analysis strategy has been developed to analyze Marine Icing images for th
 
 
 ## Image Analysis for Marine Icing
-Image processing  
+
+### Image processing  
 <img src="Images/structuresource.png" width="100%" height="100%">
 
-Measurement of a Vertical Structure  
+### Measurement of a Vertical Structure  
 <img src="Images/mimsresult.png" width="100%" height="100%">
 
 ## Image Analysis for Impact Module
 
-Source Image               
+### Source Image               
 <img src="Images/imsource.png" width="90%" height="90%">
 
-Image processing 
+### Image processing 
 <img src="Images/iminput.png" width="100%" height="100%">
 
-Convert edge difference into pressure unit 
+### Convert edge difference into pressure unit  
 <img src="Images/imresult_convert.png" width="50%" height="50%">
 
-Converting contrat areas into pressure distribution map
+### Converting contrat areas into pressure distribution map  
 <img src="Images/imresult_process.png" width="100%" height="100%">
