@@ -8,6 +8,7 @@ Image analysis strategy has been developed to analyze Marine Icing images for th
 Ice accumulation on a vessel is usually caused by fog, freezing rain, and sea spray accumulating on the superstructure or the hull and freezing under their freezing points. In order to enhance the icing strength of a boat, researchers need to find the maximum icing impact and to provide necessary emergency warning. The requirement of researching ice impact is to collect detailed data from ice accumulation. In order to collect the data of vessel icing, the Marine Icing Monitoring System (MIMS) is designed for monitoring the event on the boat. 
 
 <img src="Images/structuresource.png" width="100%" height="100%">
+<img src="Images/mimsresult.png" width="100%" height="100%">
 
 ## Image Analysis for Impact Module
 
