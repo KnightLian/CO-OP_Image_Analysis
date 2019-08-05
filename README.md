@@ -13,10 +13,10 @@ Image analysis strategy has been developed to analyze Marine Icing images for th
 
 ## Image Analysis for Impact Module
 
-### Source Image               
+### Source Image                 
 <img src="Images/imsource.png" width="90%" height="90%">
 
-### Image processing 
+### Image Processing of Contact Areas on the Source Image   
 <img src="Images/iminput.png" width="100%" height="100%">
 
 ### Converting Strip Width into Pressure  
