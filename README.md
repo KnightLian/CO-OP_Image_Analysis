@@ -19,8 +19,8 @@ Image analysis strategy has been developed to analyze Marine Icing images for th
 ### Image processing 
 <img src="Images/iminput.png" width="100%" height="100%">
 
-### Convert edge difference into pressure unit  
+### Converting Strip Width into Pressure  
 <img src="Images/imresult_convert.png" width="50%" height="50%">
 
-### Converting contrat areas into pressure distribution map  
+### Converting Source Image into Pressure Distribution Map  
 <img src="Images/imresult_process.png" width="100%" height="100%">
