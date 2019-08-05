@@ -12,9 +12,9 @@ Ice accumulation on a vessel is usually caused by fog, freezing rain, and sea sp
 
 ## Image Analysis for Impact Module
 
-<img src="Images/imsource.png" width="80%" height="80%">
+<img src="Images/imsource.png" width="90%" height="90%">
 <img src="Images/iminput.png" width="100%" height="100%">
 
-<img src="Images/imresult_convert.png" width="60%" height="60%">
+<img src="Images/imresult_convert.png" width="50%" height="50%">
 
 <img src="Images/imresult_process.png" width="100%" height="100%">
