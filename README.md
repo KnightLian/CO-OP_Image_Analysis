@@ -25,5 +25,4 @@ Image analysis strategy has been developed to analyze Marine Icing images for th
 ### Converting Source Image into Pressure Distribution Map  
 <img src="Images/imresult_process.png" width="100%" height="100%">
 
-[Report](Report.pdf "Project Presentation PDF")  
 Co-author of “Development of a Marine Icing Monitoring System”, 2009  
